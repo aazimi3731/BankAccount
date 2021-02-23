@@ -1,0 +1,12 @@
+[
+  {
+    "TransactionDate": "2021-02-21",
+    "TransactionType": "WithdrawCash",
+    "TransactionAccountNo": "",
+    "Amount": "100",
+    "Currency": "USD",
+    "AccountNo": "1010",
+    "CustomerNo": "219"
+  }
+]
+

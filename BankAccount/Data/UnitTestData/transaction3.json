@@ -1,0 +1,30 @@
+[
+  {
+    "TransactionDate": "2021-02-19",
+    "TransactionType": "WithdrawCash",
+    "TransactionAccountNo": "",
+    "Amount": "5000",
+    "Currency": "CAD",
+    "AccountNo": "5500",
+    "CustomerNo": "002"
+  },
+  {
+    "TransactionDate": "2021-02-20",
+    "TransactionType": "WithdrawTrnasfer",
+    "TransactionAccountNo": "5500",
+    "Amount": "7300",
+    "Currency": "CAD",
+    "AccountNo": "1010",
+    "CustomerNo": "002"
+  },
+  {
+    "TransactionDate": "2021-02-21",
+    "TransactionType": "DepositCash",
+    "TransactionAccountNo": "",
+    "Amount": "13726",
+    "Currency": "MXN",
+    "AccountNo":  "1010",
+    "CustomerNo": "002"
+  }
+]
+

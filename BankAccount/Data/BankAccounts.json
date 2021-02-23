@@ -1,0 +1,177 @@
+[
+  {
+    "CustomerNo":    "777",
+    "FirstName":     "Stewie",
+    "LastName":      "Griffin",
+    "BirthDate":     "1967-06-26",
+    "Gender":        "Male",
+    "Language":      "English",
+    "Address":       "140 King St., Montreal, Canada",
+    "Email":         "stewiegriffin@gmail.com",
+    "CustomerDate":  "2021-02-01",
+    "PhoneNumbers":  [
+    			{
+    			  "Number": "435-454-4532",
+    			  "PhoneNumberType": "Mobile",
+    			  "CustomerId": "777"
+    			},
+    			{
+    			  "Number": "466-465-4876",
+    			  "PhoneNumberType": "Home",
+    			  "CustomerId": "777"
+    			}
+    		     ],
+    "Accounts": [
+    		  {
+    		    "AccountNo": "1234",
+    		    "AccountType": "Checking",
+    		    "AccountJoined": "0",
+    		    "Balance": "100",
+    		    "OpenedDate": "2021-02-02"
+    		  },
+    		]
+  },
+  {
+    "CustomerNo":    "504",
+    "FirstName":     "Glenn",
+    "LastName":      "Quagmire",
+    "BirthDate":     "1997-10-02",
+    "Gender":        "Female",
+    "Language":      "French",
+    "Address":       "144 Atwater St., Montreal, Canada",
+    "Email":         "glennquagmire@gmail.com",
+    "CustomerDate":  "2021-02-10",
+    "PhoneNumbers":  [
+    			{
+    			  "Number": "435-454-4532",
+    			  "PhoneNumberType": "Mobile",
+    			  "CustomerId": "504"
+    			}
+    		     ],
+    "Accounts": [
+    		  {
+    		    "AccountNo": "2001",
+    		    "AccountType": "Checking",
+    		    "AccountJoined": "0",
+    		    "Balance": "35000",
+    		    "OpenedDate": "2021-02-12"
+    		  }
+    		]
+  },
+  {
+    "CustomerNo":    "002",
+    "FirstName":     "Joe",
+    "LastName":      "Swanson",
+    "BirthDate":     "1995-11-12",
+    "Gender":        "Male",
+    "Language":      "English",
+    "Address":       "1244 Elizabeth St., Montreal, Canada",
+    "Email":         "jswanson@gmail.com",
+    "CustomerDate":  "2021-01-13",
+    "PhoneNumbers":  [
+    			{
+    			  "Number": "514-498-5672",
+    			  "PhoneNumberType": "Mobile",
+    			  "CustomerId": "002"
+    			}
+    		     ],
+    "Accounts": [
+    		  {
+    		    "AccountNo": "1010",
+    		    "AccountType": "Checking",
+    		    "AccountJoined": "0",
+    		    "Balance": "7425",
+    		    "OpenedDate": "2021-01-13"
+    		  },
+    		  {
+    		    "AccountNumber": "5500",
+    		    "AccountType": "Checking",
+    		    "AccountJoined": "0",
+    		    "Balance": "15000",
+    		    "OpenedDate": "2021-02-15"
+    		  }
+    		]
+  },
+  {
+    "CustomerNo":    "123",
+    "FirstName":     "Peter",
+    "LastName":      "Griffin",
+    "BirthDate":     "1975-02-22",
+    "Gender":        "Male",
+    "Language":      "English",
+    "Address":       "3244 Elizabeth St., Montreal, Canada",
+    "Email":         "petergriffin@gmail.com",
+    "CustomerDate":  "2021-01-23",
+    "PhoneNumbers":  [
+    			{
+    			  "Number": "514-238-4529",
+    			  "PhoneNumberType": "Mobile",
+    			  "CustomerId": "123"
+    			}
+    		     ],
+    "Accounts": [
+    		  {
+    		    "AccountNo": "0123",
+    		    "AccountType": "Checking",
+    		    "AccountJoined": "0",
+    		    "Balance": "150",
+    		    "OpenedDate": "2021-02-03"
+    		  }
+    		]
+  },
+  {
+    "CustomerNo":    "456",
+    "FirstName":     "Lois",
+    "LastName":      "Griffin",
+    "BirthDate":     "1978-12-22",
+    "Gender":        "Female",
+    "Language":      "English",
+    "Address":       "3244 Elizabeth St., Montreal, Canada",
+    "Email":         "loisgriffin@gmail.com",
+    "CustomerDate":  "2021-01-23",
+    "PhoneNumbers":  [
+    			{
+    			  "Number": "514-338-5529",
+    			  "PhoneNumberType": "Mobile",
+    			  "CustomerId": "456"
+    			}
+    		     ],
+    "Accounts": [
+    		  {
+    		    "AccountNo": "0456",
+    		    "AccountType": "Checking",
+    		    "AccountJoined": "0",
+    		    "Balance": "65000",
+    		    "OpenedDate": "2021-02-03"
+    		  }
+    		]
+  },
+  {
+    "CustomerNo":    "219",
+    "FirstName":     "John",
+    "LastName":      "Shark",
+    "BirthDate":     "1998-02-10",
+    "Gender":        "Male",
+    "Language":      "English",
+    "Address":       "7654 Room St., Brossard, Canada",
+    "Email":         "johnshark@gmail.com",
+    "CustomerDate":  "2021-02-13",
+    "PhoneNumbers":  [
+    			{
+    			  "Number": "438-448-5529",
+    			  "PhoneNumberType": "Mobile",
+    			  "CustomerId": "219"
+    			}
+    		     ],
+    "Accounts": [
+    		  {
+    		    "AccountNo": "0219",
+    		    "AccountType": "Checking",
+    		    "AccountJoined": "0",
+    		    "Balance": "0",
+    		    "OpenedDate": "2021-02-13"
+    		  }
+    		]
+  }
+]
+

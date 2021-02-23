@@ -1,0 +1,102 @@
+[
+  {
+    "TransactionDate": "2021-02-20",
+    "TransactionType": "DepositCash",
+    "TransactionAccountNo": "",
+    "Amount": "300",
+    "Currency": "USD",
+    "AccountNo": "1234",
+    "CustomerNo": "777"
+  },
+  {
+    "TransactionDate": "2021-02-19",
+    "TransactionType": "WithdrawCash",
+    "TransactionAccountNo": "",
+    "Amount": "5000",
+    "Currency": "MXN",
+    "AccountNo": "2001",
+    "CustomerNo": "504"
+  },
+  {
+    "TransactionDate": "2021-02-20",
+    "TransactionType": "WithdrawCash",
+    "TransactionAccountNo": "",
+    "Amount": "12500",
+    "Currency": "USD",
+    "AccountNo": "2001",
+    "CustomerNo": "504"
+  },
+  {
+    "TransactionDate": "2021-02-21",
+    "TransactionType": "DepositCash",
+    "TransactionAccountNo": "",
+    "Amount": "300",
+    "Currency": "CAD",
+    "AccountNo": "2001",
+    "CustomerNo": "504"
+  },
+  {
+    "TransactionDate": "2021-02-19",
+    "TransactionType": "WithdrawCash",
+    "TransactionAccountNo": "",
+    "Amount": "5000",
+    "Currency": "CAD",
+    "AccountNo": "5500",
+    "CustomerNo": "002"
+  },
+  {
+    "TransactionDate": "2021-02-20",
+    "TransactionType": "WithdrawTrnasfer",
+    "TransactionAccountNo": "5500",
+    "Amount": "7300",
+    "Currency": "CAD",
+    "AccountNo": "1010",
+    "CustomerNo": "002"
+  },
+  {
+    "TransactionDate": "2021-02-21",
+    "TransactionType": "DepositCash",
+    "TransactionAccountNo": "",
+    "Amount": "13726",
+    "Currency": "MXN",
+    "AccountNo":  "1010",
+    "CustomerNo": "002"
+  },
+  {
+    "TransactionDate": "2021-02-20",
+    "TransactionType": "WithdrawCash",
+    "TransactionAccountNo": "",
+    "Amount": "70",
+    "Currency": "USD",
+    "AccountNo": "0123",
+    "CustomerNo": "123"
+  },
+  {
+    "TransactionDate": "2021-02-20",
+    "TransactionType": "DepositCash",
+    "TransactionAccountNo": "",
+    "Amount": "23789",
+    "Currency": "USD",
+    "AccountNo": "0456",
+    "CustomerNo": "456"
+  },
+  {
+    "TransactionDate": "2021-02-21",
+    "TransactionType": "WithdrawTrnasfer",
+    "TransactionAccountNo": "0123",
+    "Amount": "23.75",
+    "Currency": "CAD",
+    "AccountNo": "0456",
+    "CustomerNo": "456"
+  },
+  {
+    "TransactionDate": "2021-02-21",
+    "TransactionType": "WithdrawCash",
+    "TransactionAccountNo": "",
+    "Amount": "100",
+    "Currency": "USD",
+    "AccountNo": "1010",
+    "CustomerNo": "219"
+  }
+]
+

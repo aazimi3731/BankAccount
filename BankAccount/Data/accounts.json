@@ -1,0 +1,51 @@
+[
+  {
+    "AccountNo": "1234",
+    "AccountType": "Checking",
+    "AccountJoined": "0",
+    "Balance": "100",
+    "OpenedDate": "2021-02-02",
+    "CustomerNo": "777"
+  },
+  {
+    "AccountNo": "2001",
+    "AccountType": "Checking",
+    "AccountJoined": "0",
+    "Balance": "35000",
+    "OpenedDate": "2021-02-12",
+    "CustomerNo": "504"
+  },
+  {
+    "AccountNo": "1010",
+    "AccountType": "Checking",
+    "AccountJoined": "0",
+    "Balance": "7425",
+    "OpenedDate": "2021-01-13",
+    "CustomerNo": "002"
+  },
+  {
+    "AccountNo": "5500",
+    "AccountType": "Checking",
+    "AccountJoined": "0",
+    "Balance": "15000",
+    "OpenedDate": "2021-02-15",
+    "CustomerNo": "002"
+  },
+  {
+    "AccountNo": "0123",
+    "AccountType": "Checking",
+    "AccountJoined": "0",
+    "Balance": "150",
+    "OpenedDate": "2021-02-03",
+    "CustomerNo": "123"
+  },
+  {
+    "AccountNo": "0456",
+    "AccountType": "Checking",
+    "AccountJoined": "0",
+    "Balance": "65000",
+    "OpenedDate": "2021-02-03",
+    "CustomerNo": "456"
+  },
+]
+

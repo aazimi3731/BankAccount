@@ -1,0 +1,11 @@
+[
+  {
+    "TransactionDate": "2021-02-20",
+    "TransactionType": "DepositCash",
+    "TransactionAccountNo": "",
+    "Amount": "300",
+    "Currency": "USD",
+    "AccountNo": "1234",
+    "CustomerNo": "777"
+  }
+]

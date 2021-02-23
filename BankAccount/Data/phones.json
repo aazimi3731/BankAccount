@@ -1,0 +1,38 @@
+[
+  {
+    "Number": "435-454-4532",
+    "PhoneNumberType": "Mobile",
+    "CustomerNo": "777"
+  },
+  {
+    "Number": "466-465-4876",
+    "PhoneNumberType": "Home",
+    "CustomerNo": "777"
+  },
+  {
+    "Number": "435-454-4532",
+    "PhoneNumberType": "Mobile",
+    "CustomerNo": "504"
+  },
+  {
+    "Number": "514-498-5672",
+    "PhoneNumberType": "Mobile",
+    "CustomerNo": "002"
+  },
+  {
+    "Number": "514-238-4529",
+    "PhoneNumberType": "Mobile",
+    "CustomerNo": "123"
+  },
+  {
+    "Number": "514-338-5529",
+    "PhoneNumberType": "Mobile",
+    "CustomerNo": "456"
+  },
+  {
+    "Number": "438-448-5529",
+    "PhoneNumberType": "Mobile",
+    "CustomerNo": "219"
+  },
+]
+
